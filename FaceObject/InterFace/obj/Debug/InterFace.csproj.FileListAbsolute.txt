@@ -1,7 +1,0 @@
-D:\C#ALL\FaceObject\InterFace\bin\Debug\InterFace.exe.config
-D:\C#ALL\FaceObject\InterFace\bin\Debug\InterFace.exe
-D:\C#ALL\FaceObject\InterFace\bin\Debug\InterFace.pdb
-D:\C#ALL\FaceObject\InterFace\obj\Debug\InterFace.csprojAssemblyReference.cache
-D:\C#ALL\FaceObject\InterFace\obj\Debug\InterFace.csproj.CoreCompileInputs.cache
-D:\C#ALL\FaceObject\InterFace\obj\Debug\InterFace.exe
-D:\C#ALL\FaceObject\InterFace\obj\Debug\InterFace.pdb

@@ -1,7 +1,0 @@
-D:\C#ALL\FaceObject\Polymorphic\bin\Debug\Polymorphic.exe.config
-D:\C#ALL\FaceObject\Polymorphic\bin\Debug\Polymorphic.exe
-D:\C#ALL\FaceObject\Polymorphic\bin\Debug\Polymorphic.pdb
-D:\C#ALL\FaceObject\Polymorphic\obj\Debug\Polymorphic.csprojAssemblyReference.cache
-D:\C#ALL\FaceObject\Polymorphic\obj\Debug\Polymorphic.csproj.CoreCompileInputs.cache
-D:\C#ALL\FaceObject\Polymorphic\obj\Debug\Polymorphic.exe
-D:\C#ALL\FaceObject\Polymorphic\obj\Debug\Polymorphic.pdb

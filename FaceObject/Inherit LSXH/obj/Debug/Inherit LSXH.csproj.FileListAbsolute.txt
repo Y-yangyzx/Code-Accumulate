@@ -1,7 +1,0 @@
-D:\C#ALL\FaceObject\Inherit LSXH\bin\Debug\Inherit LSXH.exe.config
-D:\C#ALL\FaceObject\Inherit LSXH\bin\Debug\Inherit LSXH.exe
-D:\C#ALL\FaceObject\Inherit LSXH\bin\Debug\Inherit LSXH.pdb
-D:\C#ALL\FaceObject\Inherit LSXH\obj\Debug\Inherit LSXH.csproj.CoreCompileInputs.cache
-D:\C#ALL\FaceObject\Inherit LSXH\obj\Debug\Inherit LSXH.exe
-D:\C#ALL\FaceObject\Inherit LSXH\obj\Debug\Inherit LSXH.pdb
-D:\C#ALL\FaceObject\Inherit LSXH\obj\Debug\Inherit LSXH.csprojAssemblyReference.cache
