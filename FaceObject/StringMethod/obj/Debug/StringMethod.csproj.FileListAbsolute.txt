@@ -1,0 +1,7 @@
+D:\C#ALL\FaceObject\StringMethod\bin\Debug\StringMethod.exe.config
+D:\C#ALL\FaceObject\StringMethod\bin\Debug\StringMethod.exe
+D:\C#ALL\FaceObject\StringMethod\bin\Debug\StringMethod.pdb
+D:\C#ALL\FaceObject\StringMethod\obj\Debug\StringMethod.csprojAssemblyReference.cache
+D:\C#ALL\FaceObject\StringMethod\obj\Debug\StringMethod.csproj.CoreCompileInputs.cache
+D:\C#ALL\FaceObject\StringMethod\obj\Debug\StringMethod.exe
+D:\C#ALL\FaceObject\StringMethod\obj\Debug\StringMethod.pdb
