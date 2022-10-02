@@ -1,0 +1,7 @@
+D:\C#ALL\ConsoleApp1\Method Practice\bin\Debug\Method Practice.exe.config
+D:\C#ALL\ConsoleApp1\Method Practice\bin\Debug\Method Practice.exe
+D:\C#ALL\ConsoleApp1\Method Practice\bin\Debug\Method Practice.pdb
+D:\C#ALL\ConsoleApp1\Method Practice\obj\Debug\Method Practice.csprojAssemblyReference.cache
+D:\C#ALL\ConsoleApp1\Method Practice\obj\Debug\Method Practice.csproj.CoreCompileInputs.cache
+D:\C#ALL\ConsoleApp1\Method Practice\obj\Debug\Method Practice.exe
+D:\C#ALL\ConsoleApp1\Method Practice\obj\Debug\Method Practice.pdb

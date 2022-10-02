@@ -1,0 +1,7 @@
+D:\C#ALL\ConsoleApp1\0919 Start enum\bin\Debug\0919 Start enum.exe.config
+D:\C#ALL\ConsoleApp1\0919 Start enum\bin\Debug\0919 Start enum.exe
+D:\C#ALL\ConsoleApp1\0919 Start enum\bin\Debug\0919 Start enum.pdb
+D:\C#ALL\ConsoleApp1\0919 Start enum\obj\Debug\0919 Start enum.csprojAssemblyReference.cache
+D:\C#ALL\ConsoleApp1\0919 Start enum\obj\Debug\0919 Start enum.csproj.CoreCompileInputs.cache
+D:\C#ALL\ConsoleApp1\0919 Start enum\obj\Debug\0919 Start enum.exe
+D:\C#ALL\ConsoleApp1\0919 Start enum\obj\Debug\0919 Start enum.pdb

@@ -1,0 +1,7 @@
+D:\C#ALL\ConsoleApp1\Method ZH\bin\Debug\Method ZH.exe.config
+D:\C#ALL\ConsoleApp1\Method ZH\bin\Debug\Method ZH.exe
+D:\C#ALL\ConsoleApp1\Method ZH\bin\Debug\Method ZH.pdb
+D:\C#ALL\ConsoleApp1\Method ZH\obj\Debug\Method ZH.csprojAssemblyReference.cache
+D:\C#ALL\ConsoleApp1\Method ZH\obj\Debug\Method ZH.csproj.CoreCompileInputs.cache
+D:\C#ALL\ConsoleApp1\Method ZH\obj\Debug\Method ZH.exe
+D:\C#ALL\ConsoleApp1\Method ZH\obj\Debug\Method ZH.pdb

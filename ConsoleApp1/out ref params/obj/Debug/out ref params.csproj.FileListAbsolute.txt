@@ -1,0 +1,7 @@
+D:\C#ALL\ConsoleApp1\out ref params\bin\Debug\out ref params.exe.config
+D:\C#ALL\ConsoleApp1\out ref params\bin\Debug\out ref params.exe
+D:\C#ALL\ConsoleApp1\out ref params\bin\Debug\out ref params.pdb
+D:\C#ALL\ConsoleApp1\out ref params\obj\Debug\out ref params.csproj.CoreCompileInputs.cache
+D:\C#ALL\ConsoleApp1\out ref params\obj\Debug\out ref params.exe
+D:\C#ALL\ConsoleApp1\out ref params\obj\Debug\out ref params.pdb
+D:\C#ALL\ConsoleApp1\out ref params\obj\Debug\out ref params.csprojAssemblyReference.cache
