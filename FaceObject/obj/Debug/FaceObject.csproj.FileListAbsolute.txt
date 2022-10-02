@@ -1,0 +1,7 @@
+D:\C#ALL\FaceObject\FaceObject\bin\Debug\FaceObject.exe.config
+D:\C#ALL\FaceObject\FaceObject\bin\Debug\FaceObject.exe
+D:\C#ALL\FaceObject\FaceObject\bin\Debug\FaceObject.pdb
+D:\C#ALL\FaceObject\FaceObject\obj\Debug\FaceObject.csprojAssemblyReference.cache
+D:\C#ALL\FaceObject\FaceObject\obj\Debug\FaceObject.csproj.CoreCompileInputs.cache
+D:\C#ALL\FaceObject\FaceObject\obj\Debug\FaceObject.exe
+D:\C#ALL\FaceObject\FaceObject\obj\Debug\FaceObject.pdb
