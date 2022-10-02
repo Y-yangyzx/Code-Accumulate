@@ -1,0 +1,6 @@
+﻿  22.8.25.c
+d:\c语言\project c\project c\22.8.25.c(158): warning C4477: “printf”: 格式字符串“%d”需要类型“int”的参数，但可变参数 1 拥有了类型“size_t”
+  d:\c语言\project c\project c\22.8.25.c(158): note: 请考虑在格式字符串中使用“%zd”
+d:\c语言\project c\project c\22.8.25.c(159): warning C4477: “printf”: 格式字符串“%d”需要类型“int”的参数，但可变参数 1 拥有了类型“size_t”
+  d:\c语言\project c\project c\22.8.25.c(159): note: 请考虑在格式字符串中使用“%zd”
+  Project C.vcxproj -> D:\C语言\Project C\x64\Debug\Project C.exe
